@@ -2,5 +2,5 @@
 
 Hi Humans!
 
-Crono here, i like Node.js and Coffescript (that's what i'm made of!).
-i've had nugget on the moon and find them far superior to Earth nugget.
+Crono here, i like I like data science, for me it is a fun thing
+drinking coffee while working on data is very fun
